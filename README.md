@@ -1,1 +1,2 @@
 # Self-attention-using-PyTorch
+Self-attention, often referred to as scaled dot-product attention, is a mechanism that allows a model to weigh the importance of different parts of the input data when processing each element. It’s a crucial component in transformer models, enabling them to capture dependencies regardless of their distance in the input sequence. This ability makes self-attention particularly powerful for tasks like machine translation, text generation, and more.
